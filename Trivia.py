@@ -7,7 +7,7 @@ import random
 conexion = mysql.connector.connect(
     host="127.0.0.1",
     user="root",
-    password="Martin*30",
+    password="root",
     port=3305,
     database="Trivia"
 )
